@@ -2,20 +2,7 @@
  ⚡ CPA – Powered Penetration Testing Framework
 CPA_Penetration adalah framework penetration testing modular dan otomatis yang menggabungkan **reconnaissance, vulnerability scanning, exploitation, dan reporting** dalam satu alat yang powerful.
 
- 📋 Daftar Isi
 
-- [Fitur Utama](#-fitur-utama)
-- [Prasyarat](#-prasyarat)
-- [Instalasi](#-instalasi)
-- [Cara Penggunaan](#-cara-penggunaan)
-- [Parameter Lengkap](#-parameter-lengkap)
-- [Contoh Penggunaan](#-contoh-penggunaan)
-- [Format Laporan](#-format-laporan)
-- [Troubleshooting](#-troubleshooting)
-- [Disclaimer](#-disclaimer)
-- [Lisensi](#-lisensi)
-
----
 
  🚀 Fitur Utama
 
