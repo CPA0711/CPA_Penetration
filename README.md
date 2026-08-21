@@ -30,7 +30,7 @@ CPA_Penetration adalah framework penetration testing modular dan otomatis yang m
 | **⚡ Multi-threading** | Fast scanning with configurable threads |
 | **🔄 Async Support** | Non-blocking I/O for faster scanning |
 
----
+
 
 ## 📦 Prasyarat
 
@@ -38,7 +38,7 @@ CPA_Penetration adalah framework penetration testing modular dan otomatis yang m
 - **Koneksi internet** (untuk install dependencies & DNS lookup)
 - **Sistem yang diuji** harus dimiliki atau memiliki izin tertulis
 
----
+
 
 ## ⚙️ Instalasi
 
@@ -104,18 +104,28 @@ python cpa.py --list-payloads
 ⚙️ Parameter Lengkap
 
 Parameter /Deskripsi/ Default/ Contoh
+
 -t, --target Target domain/IP (wajib) – -t example.com
+
 --threads Jumlah  50 --threads 100
+
 --timeout Timeout per request (detik) 10 --timeout 15
+
 --full Jalankan full scan (recon + vuln) – --full
+
 --recon Hanya reconnaissance – --recon
+
 --scan Hanya vulnerability scan – --scan
+
 --report Format laporan: html, json, markdown html --report json
+
 -o, --output Nama file laporan report_{timestamp} -o hasil.json
+
 --debug Tampilkan log detail false --debug
+
 --list-payloads Tampilkan daftar payload – --list-payloads
 
----
+
 
 🔥 Contoh Penggunaan
 
