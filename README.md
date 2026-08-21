@@ -32,7 +32,7 @@ CPA_Penetration adalah framework penetration testing modular dan otomatis yang m
 
 
 
-## 📦 Prasyarat
+ 📦 Prasyarat
 
 - **Python 3.8+**
 - **Koneksi internet** (untuk install dependencies & DNS lookup)
@@ -40,9 +40,9 @@ CPA_Penetration adalah framework penetration testing modular dan otomatis yang m
 
 
 
-## ⚙️ Instalasi
+ ⚙️ Instalasi
 
-### 1. Clone atau Buat File
+1. Clone atau Buat File
 
 ```bash
 # Buat file cpa.py
@@ -56,7 +56,7 @@ nano cpa.py
 ```bash
 pip install aiohttp colorama dnspython
 
-# Atau jika menggunakan pip3
+Atau jika menggunakan pip3
 pip3 install aiohttp colorama dnspython
 ```
 
