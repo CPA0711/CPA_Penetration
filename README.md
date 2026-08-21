@@ -1,29 +1,10 @@
 ```
 # ⚡ CPA – Powered Penetration Testing Framework
-
-```
-
-╔═══════════════════════════════════════════════════════════════════╗
-║                                                                   ║
-║    ██████╗██████╗  █████╗                                         ║
-║   ██╔════╝██╔══██╗██╔══██╗                                        ║
-║   ██║     ██████╔╝███████║                                        ║
-║   ██║     ██╔═══╝ ██╔══██║                                        ║
-║   ╚██████╗██║     ██║  ██║                                        ║
-║    ╚═════╝╚═╝     ╚═╝  ╚═╝                                        ║
-║                                                                   ║
-║         CPA - POWERED PENETRATION TESTING FRAMEWORK               ║
-║                    “Reveal the unseen”                            ║
-║                                                                   ║
-╚═══════════════════════════════════════════════════════════════════╝
-
-```
-
 **CPA** adalah framework penetration testing modular dan otomatis yang menggabungkan **reconnaissance, vulnerability scanning, exploitation, dan reporting** dalam satu alat yang powerful.
 
 ---
 
-## 📋 Daftar Isi
+ 📋 Daftar Isi
 
 - [Fitur Utama](#-fitur-utama)
 - [Prasyarat](#-prasyarat)
@@ -38,7 +19,7 @@
 
 ---
 
-## 🚀 Fitur Utama
+ 🚀 Fitur Utama
 
 | Modul | Deskripsi |
 |-------|-----------|
@@ -124,9 +105,9 @@ python cpa.py --list-payloads
 
 ⚙️ Parameter Lengkap
 
-Parameter Deskripsi Default Contoh
+Parameter /Deskripsi/ Default/ Contoh
 -t, --target Target domain/IP (wajib) – -t example.com
---threads Jumlah thread untuk scanning 50 --threads 100
+--threads Jumlah  50 --threads 100
 --timeout Timeout per request (detik) 10 --timeout 15
 --full Jalankan full scan (recon + vuln) – --full
 --recon Hanya reconnaissance – --recon
