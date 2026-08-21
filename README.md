@@ -1,8 +1,6 @@
 ```
-# ⚡ CPA – Powered Penetration Testing Framework
-**CPA** adalah framework penetration testing modular dan otomatis yang menggabungkan **reconnaissance, vulnerability scanning, exploitation, dan reporting** dalam satu alat yang powerful.
-
----
+ ⚡ CPA – Powered Penetration Testing Framework
+CPA_Penetration adalah framework penetration testing modular dan otomatis yang menggabungkan **reconnaissance, vulnerability scanning, exploitation, dan reporting** dalam satu alat yang powerful.
 
  📋 Daftar Isi
 
