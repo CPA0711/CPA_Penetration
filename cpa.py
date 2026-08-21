@@ -841,7 +841,7 @@ a {{ color: #00ff00; }}
                     html += f"<h3>{severity}</h3>"
                     for v in vuln_by_severity[severity]:
                         html += f"<div class='vuln severity-{severity}'>"
-                        html += f<strong>{v.get('type', 'Unknown')}</strong><br>"
+                        html += f"<strong>{v.get('type', 'Unknown')}</strong><br>"
                         if 'url' in v:
                             html += f"URL: {v['url']}<br>"
                         if 'description' in v:
